@@ -1,3 +1,3 @@
 # Game-Theory
-Simulation and Modeling for Choice of Managing Director from the Board of Directors
-in a Firm, Using Game Theory and Finding Nash Equilibriums Using Python
+Supporting code for my project on simulation and modeling for choice of managing director from the board of directors
+in a firm, using game theory and finding nash equilibriums using python
